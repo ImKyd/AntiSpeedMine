@@ -5,7 +5,7 @@ namespace AS;
 use pocketmine\event\Listener;
 use pocketmine\event\block\BlockBreakEvent;
 
-class EventListener implements Listener
+class EventListener implements Listener{
   /** var Main $plugin */
   public $plugin;
 
